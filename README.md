@@ -9,7 +9,8 @@ First let's map out everything I use! I consider these all to be social media in
 * twitter
 * instagram
 * github
-* reddit
+* reddit: (various)
+* whatsapp: (various)
 * discord: lilypad
 * discord: t2 tile
 * discord: sandspiel
